@@ -1,5 +1,12 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>I'm **Sanket Adsare**, a **Full-Stack Developer** and **AI/ML Engineer** skilled in building scalable web apps and intelligent systems.  <br>I work with **Next.js, React, Node.js, PostgreSQL, MongoDB** and develop ML models using **TensorFlow, PyTorch, OpenCV**.<br><br>- 🧠 **IIT Bombay Intern** — Built a brain tumor detection model with **99.2% accuracy**, deployed with Gradio.<br>- 🤖 **OpenDroids Robotics (USA)** — Improved computer vision accuracy & optimized real-time robotic control.<br>- 🚀 Built products like **Equinox**, **MediMitra**, **EzChange**, and **Razorpay-based eCommerce**.<br>- 🔧 Strong in **REST APIs, FastAPI, Docker, Embedded Systems (ESP32/RPi)**.<br><br>I love building **real-world, impactful tech** across web, AI, and automation — and I’m always excited to collaborate.<br>
+👋 Hello, I'm Sanket Adsare  
+🛠️ Exploring Web Development, AI, and Robotics
+
+🔬 Passionate about building meaningful products, solving real problems, and creating smart, simple user experiences.
+
+💡 Currently working on: AI projects, full-stack applications, and impactful real-world ideas.
+
+🌎 I love turning concepts into useful, beautifully crafted solutions.
+
 
 
 ## 🌐 Socials:
