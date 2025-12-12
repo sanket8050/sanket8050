@@ -1,11 +1,33 @@
-👋 Hello, I'm Sanket Adsare  
-🛠️ Exploring Web Development, AI, and Robotics
+<!-- Paste this into your README.md -->
+<div align="center" style="max-width:760px;margin:0 auto;padding:18px;border-radius:12px;
+ background:linear-gradient(135deg,#0ea5e922, #7c3aed11);box-shadow:0 8px 24px rgba(15,23,42,0.08);
+ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;">
+  <h1 style="margin:6px 0;font-size:28px;">👋 Hello, I'm <strong>Sanket Adsare</strong></h1>
+  <p style="margin:6px 0 16px;color:#0f172a8a;font-size:15px;">
+    🛠️ Exploring Web Development, AI, and Robotics
+  </p>
 
-🔬 Passionate about building meaningful products, solving real problems, and creating smart, simple user experiences.
+  <div style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin:12px 0;">
+    <span style="background:#fff;padding:8px 12px;border-radius:999px;font-size:14px;box-shadow:0 4px 12px rgba(2,6,23,0.06);">
+      🔬 Passionate about building meaningful products
+    </span>
+    <span style="background:#fff;padding:8px 12px;border-radius:999px;font-size:14px;box-shadow:0 4px 12px rgba(2,6,23,0.06);">
+      🧩 Solving real problems with simple designs
+    </span>
+    <span style="background:#fff;padding:8px 12px;border-radius:999px;font-size:14px;box-shadow:0 4px 12px rgba(2,6,23,0.06);">
+      🌱 Always learning new things
+    </span>
+  </div>
 
-💡 Currently working on: AI projects, full-stack applications, and impactful real-world ideas.
+  <p style="margin:12px 0;font-size:15px;color:#0f172ade;">
+    💡 <strong>Currently:</strong> Building AI agents & full-stack projects with an emphasis on practical, research-driven solutions.
+  </p>
 
-🌎 I love turning concepts into useful, beautifully crafted solutions.
+  <p style="margin:8px 0 0;font-size:14px;color:#0f172a9a;">
+    🌎 I love turning concepts into useful, beautifully crafted tech.
+  </p>
+</div>
+
 
 
 
