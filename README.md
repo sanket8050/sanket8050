@@ -10,15 +10,7 @@
 
 ### 🚀 About Me
 
-```typescript
-const sanket = {
-    location: "Pune, India 🇮🇳",
-    currentFocus: ["AI Agents", "Full-Stack Development", "Robotics"],
-    passions: ["Building Products", "Research", "Problem Solving"],
-    philosophy: "Turning concepts into beautifully crafted tech 💡",
-    approach: "Simple designs for real problems 🧩"
-};
-```
+
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
