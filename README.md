@@ -98,7 +98,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sanket8050&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS)
 
