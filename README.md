@@ -71,24 +71,6 @@
 
 
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanket8050&custom_title=Sanket's%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true&radius=10" alt="Contribution Graph"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 💭 Developer Wisdom
-
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sanket8050&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS)
 
